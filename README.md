@@ -1,5 +1,5 @@
 ## Live Demo
-[View the deployed site here](https://obscure-enigma-7qrxqq5r79x3x4j7-5173.app.github.dev/)
+[View the deployed site here](relaxed-khapse-cf3b29.netlify.app)
 
 
 # React + Vite
