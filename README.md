@@ -1,5 +1,5 @@
 ## Live Demo
-[View the deployed site here](relaxed-khapse-cf3b29.netlify.app)
+[View the deployed site here](https://relaxed-khapse-cf3b29.netlify.app)
 
 
 # React + Vite
